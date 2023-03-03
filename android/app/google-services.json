@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "294225358346",
+    "project_id": "batball-4aa24",
+    "storage_bucket": "batball-4aa24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294225358346:android:fe61e7c705695b941c39f3",
+        "android_client_info": {
+          "package_name": "com.example.batball"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294225358346-7332q8u688d23v7f9mrf7b19a8pedne5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.batball",
+            "certificate_hash": "2ce4a607d1112f1461fd4866446d5cafd68b20ca"
+          }
+        },
+        {
+          "client_id": "294225358346-k2ql0n1n5s455e5t188ksos8kn1s8qpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATkCssSG9MkwXvlwC8v2j_FhgvV9MyikE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294225358346-k2ql0n1n5s455e5t188ksos8kn1s8qpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
